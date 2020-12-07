@@ -1,0 +1,14 @@
+LANGUAGE=EN, English
+ENTER_SITE=Enter site address
+ENTER_LOGIN=Enter your login
+PASSWORD_SELECT=Do you want to generate random password? Press 'Y' and Enter to generate or any other key to write own.
+PASSWORD_LENGTH=How many symbols should password have?
+PASSWORD=Password
+MENU=\nProgram menu:\n1.Show all records.\n2.Add new record.\n3.Change interface language.\n4.Close the program.
+DEFAULT_TEXT=Choose operation by pressing menu number and pressing Enter.\n
+ADD_SUCCESSFUL=Record successfully added
+USERS_EMPTY=No records were entered.
+CHANGE_LANGUAGE=Enter 'EN' for English або введіть 'UA' для української мови.
+SITE=Site:
+LOGIN=Login:
+ENTRY_DATE=Entry date:
